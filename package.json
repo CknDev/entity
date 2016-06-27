@@ -1,8 +1,10 @@
 {
   "name": "entity",
+  "main": "entity.js",
   "version": "1.0.0",
+  "homepage": "https://github.com/CknDev/entity",
   "description": "base entity manager",
-  "main": "index.js",
+  "main": "entity.js",
   "scripts": {
     "test": "mocha --require test/spec_helper --recursive"
   },
@@ -11,6 +13,10 @@
   "license": "MIT",
   "dependencies": {
     "ramda": "^0.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CknDev/entity.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",

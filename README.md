@@ -28,6 +28,11 @@ Check ``spec/entity_spec.js`` for further usage
 
 ## Development
 
+```js
+npm i # install deps
+npm test # test
+```
+
 ## Contributing
 
 1. Fork it ( https://github.com/ckndev/entity/fork )
